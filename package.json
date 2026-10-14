@@ -1,0 +1,29 @@
+{
+  "name": "cz.xprees.codenames",
+  "displayName": "Codenames",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Deterministic, human-friendly codenames (e.g. kind-edison) generated from any seed string. Use them instead of free-text names in logs and analytics.",
+  "license": "Apache-2.0",
+  "category": "Core",
+  "dependencies": {},
+  "keywords": [
+    "Unity",
+    "Codename",
+    "Pseudonym",
+    "GDPR",
+    "Name Generator"
+  ],
+  "author": {
+    "name": "xprees",
+    "email": "xprees.developer@gmail.com",
+    "url": "https://xprees.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xprees/unity-codenames/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xprees/unity-codenames.git"
+  }
+}
